@@ -1,0 +1,9 @@
+{
+  "name": "ts-portal-automation",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws4": "^1.8.0",
+    "request": "^2.88.0",
+    "request-promise-any": "^1.0.7"
+  }
+}
